@@ -1,0 +1,2 @@
+cross-validastion fold 1:
+train from scratch!
